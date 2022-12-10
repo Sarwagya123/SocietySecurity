@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Society Security</string>
+    <string name="block_no">Block No.</string>
+    <string name="flat_no">Flat No.</string>
+    <string name="Email">Email</string>
+    <string name="newEmail">New Email</string>
+    <string name="Call">Call</string>
+    <string name="VisitorName">Name</string>
+    <string name="VisitorNo">Ph. No.</string>
+    <string name="newVisitorNo">New Ph. No.</string>
+    <string name="VisitorWork">Work</string>
+    <string name="NameMessage">Enter the Visitor\'s Name</string>
+    <string name="NoMessage">Enter the Visitor\'s Ph. No.</string>
+    <string name="WorkMessage">Enter the Visitor\'s Work</string>
+    <string name="Settings">Settings</string>
+
+    <string name="setting1">Add Residents Information</string>
+    <string name="setting2">Change Residents Information</string>
+    <string name="setting3">Delete Residents Information</string>
+    <string name="setting4">See Visitors List</string>
+    <string name="setting6">See Residents List</string>
+    <string name="setting5">About this app</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="Login">Login</string>
+    <string name="Username">Enter your username</string>
+    <string name="Password">Enter your password</string>
+    <string name="newuser">New User? Click Here.</string>
+
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="acctype">Account type</string>
+
+    <string-array name="acctypes">
+        <item>Admin</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="Register">Register</string>
+
+    <string name="Toggler">Password Toggler</string>
+    <string name="Logout">Logout</string>
+
+    <string name="dark">Dark Mode</string>
+
+    <string name="add">Add</string>
+    <string name="change">change</string>
+
+    <string name="ResidentBlock">Enter block no.</string>
+    <string name="ResidentFlat">Enter flat no.</string>
+    <string name="ResidentEmail">Enter email</string>
+    <string name="ResidentPhone">Enter phone no.</string>
+
+</resources>
